@@ -15,7 +15,7 @@ export HF_TOKEN="hf_token"
 #### How to run
 
 ```python
-chmod +x hf_upload_model.sh
+chmod +x hf_upload.sh
 ./hf_upload.sh
 ```
 
